@@ -31,3 +31,7 @@ bun dev
 ```sh
 bun run build
 ```
+
+## Additional Notes
+
+Run alongside with folder-backend
